@@ -1,4 +1,4 @@
-// C++ program to find adjoint and inverse of a matrix
+```// C++ program to find adjoint and inverse of a matrix
 #include <bits/stdc++.h>
 using namespace std;
 #define N 4
@@ -145,3 +145,4 @@ int main()
 
 	return 0;
 }
+```
